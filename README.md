@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vtu26659/applied-programming-task-1/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vtu26659/applied-programming-task-1/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0213-house-robber-ii) |
 | [0414-third-maximum-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0414-third-maximum-number) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
