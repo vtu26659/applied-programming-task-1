@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu26659/applied-programming-task-1/tree/master/0053-maximum-subarray) |
 | [0213-house-robber-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0213-house-robber-ii) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/vtu26659/applied-programming-task-1/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/vtu26659/applied-programming-task-1/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/vtu26659/applied-programming-task-1/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
