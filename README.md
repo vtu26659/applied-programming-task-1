@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vtu26659/applied-programming-task-1/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vtu26659/applied-programming-task-1/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vtu26659/applied-programming-task-1/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/vtu26659/applied-programming-task-1/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
 ## Stack
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vtu26659/applied-programming-task-1/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu26659/applied-programming-task-1/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/vtu26659/applied-programming-task-1/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
 ## Math
 |  |
