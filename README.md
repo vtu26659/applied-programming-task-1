@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vtu26659/applied-programming-task-1/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vtu26659/applied-programming-task-1/tree/master/0345-reverse-vowels-of-a-string) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0213-house-robber-ii) |
 | [0414-third-maximum-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0414-third-maximum-number) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vtu26659/applied-programming-task-1/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vtu26659/applied-programming-task-1/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vtu26659/applied-programming-task-1/tree/master/0345-reverse-vowels-of-a-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
 | ------- |
