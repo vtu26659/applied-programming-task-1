@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26659/applied-programming-task-1/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0414-third-maximum-number) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26659/applied-programming-task-1/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
