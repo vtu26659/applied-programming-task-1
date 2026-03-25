@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/vtu26659/applied-programming-task-1/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0414-third-maximum-number) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vtu26659/applied-programming-task-1/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0414-third-maximum-number) |
 ## Two Pointers
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu26659/applied-programming-task-1/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vtu26659/applied-programming-task-1/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
