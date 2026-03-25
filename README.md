@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu26659/applied-programming-task-1/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vtu26659/applied-programming-task-1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vtu26659/applied-programming-task-1/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/vtu26659/applied-programming-task-1/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vtu26659/applied-programming-task-1/tree/master/0345-reverse-vowels-of-a-string) |
 | [1436-destination-city](https://github.com/vtu26659/applied-programming-task-1/tree/master/1436-destination-city) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26659/applied-programming-task-1/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vtu26659/applied-programming-task-1/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26659/applied-programming-task-1/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vtu26659/applied-programming-task-1/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu26659/applied-programming-task-1/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26659/applied-programming-task-1/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26659/applied-programming-task-1/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
